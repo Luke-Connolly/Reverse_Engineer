@@ -1,0 +1,50 @@
+
+html{ 
+background-color: #F6F5ED;
+}
+body {
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px
+}
+
+#TopBox {
+  z-index: -2;
+  background: #101010;
+  color: #fff;
+  padding: 42px 40px;
+}
+#Header {
+	color:#FFCC22;
+	font-size: 20px;
+	font-weight:200;
+	position: absolute;
+	display: inline;
+	top: 15px;
+	left: 40px;
+  width: 97%;
+}
+#Header2 {
+color: orange;
+position: relative;
+display: inline;
+}
+#Inspiration {
+	color: #888;
+}
+#page1, #page2{
+  color: #fff;
+  font-size: 16px;
+  float: right;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+#Title{
+  color: #FFCC22;
+  text-decoration: none;
+}
+
+
